@@ -55,6 +55,7 @@
           "name": "Brusqueta com queijo de bufala",
           "src": "https://www.receiteria.com.br/wp-content/uploads/brusqueta-de-cogumelo-paris-capa.jpeg",
           "price": 59.90,
+          "group": 1,
           "active": true
       },
       {
@@ -62,6 +63,7 @@
           "name": "Carpaccio de salmão defumado",
           "src": "https://www.receiteria.com.br/wp-content/uploads/carpaccio-de-salmao-defumado.jpg",
           "price": 89.90,
+          "group": 1,
           "active": true
       },
       {
@@ -69,6 +71,7 @@
           "name": "Ceviche de Dourado",
           "src": "https://www.receiteria.com.br/wp-content/uploads/ceviche-capa-rotated.jpeg",
           "price": 79.90,
+          "group": 1,
           "active": true
       }
   ]
