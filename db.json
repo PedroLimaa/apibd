@@ -1,0 +1,75 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "Entradas",
+            "price": 119.99,
+            "description": "Moqueca de camarão",
+            "imgSrc": "https://images.pexels.com/photos/2661996/pexels-photo-2661996.jpeg",
+            "active": true
+          },
+          {
+            "id": 2,
+            "name": "Prato principal",
+            "price": 120,
+            "description": "Moqueca de Dourado com acompanhamento arroz, farofa e pirão. Serve até duas pessoas",
+            "imgSrc": "https://images.pexels.com/photos/13770555/pexels-photo-13770555.jpeg",
+            "active": false
+          },
+          {
+            "id": 3,
+            "name": "Cambos",
+            "price": 180,
+            "description": "'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur deserunt, facere debitis corporis quam vitae beatae et ullam quis'",
+            "imgSrc": "https://images.pexels.com/photos/23910850/pexels-photo-23910850/free-photo-of-pao-mesa-pouco-saudavel-insalubre.jpeg",
+            "active": true
+          },
+          {
+            "id": 4,
+            "name": "Bebidas>",
+            "price": 150,
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur deserunt, facere debitis corporis quam vitae beatae et ullam quis",
+            "imgSrc": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
+            "active": false
+          },
+          {
+            "id": 5,
+            "name": "Sobremesas",
+            "price": 200,
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur deserunt, facere debitis corporis quam vitae beatae et ullam quis",
+            "imgSrc": "https://images.pexels.com/photos/3026803/pexels-photo-3026803.jpeg",
+            "active": true
+          },
+          {
+            "id": 6,
+            "name": "Acompanhamentos",
+            "price": 120,
+            "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequuntur deserunt, facere debitis corporis quam vitae beatae et ullam quis",
+            "imgSrc": "https://images.pexels.com/photos/724300/pexels-photo-724300.jpeg",
+            "active": true
+          }
+    ],
+    "products": [
+      {
+          "id": 1,
+          "name": "Brusqueta com queijo de bufala",
+          "src": "https://www.receiteria.com.br/wp-content/uploads/brusqueta-de-cogumelo-paris-capa.jpeg",
+          "price": 59.90,
+          "active": true
+      },
+      {
+          "id": 2,
+          "name": "Carpaccio de salmão defumado",
+          "src": "https://www.receiteria.com.br/wp-content/uploads/carpaccio-de-salmao-defumado.jpg",
+          "price": 89.90,
+          "active": true
+      },
+      {
+          "id": 3,
+          "name": "Ceviche de Dourado",
+          "src": "https://www.receiteria.com.br/wp-content/uploads/ceviche-capa-rotated.jpeg",
+          "price": 79.90,
+          "active": true
+      }
+  ]
+}
