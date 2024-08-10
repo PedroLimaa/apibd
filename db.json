@@ -99,6 +99,14 @@
       {
         "allergyId": 1,
         "productId": 1
+      },
+      {
+        "allergyId": 2,
+        "productId": 4
+      },
+      {
+        "allergyId": 2,
+        "productId": 5
       }
     ],
     "products": [
@@ -116,7 +124,6 @@
           "src": "https://www.receiteria.com.br/wp-content/uploads/carpaccio-de-salmao-defumado.jpg",
           "price": 89.90,
           "group": 1,
-          "allergy": "lactose",
           "active": true
       },
       {
@@ -125,6 +132,22 @@
           "src": "https://www.receiteria.com.br/wp-content/uploads/ceviche-capa-rotated.jpeg",
           "price": 79.90,
           "group": 1,
+          "active": true
+      },
+      {
+          "id": 4,
+          "name": "Salada de Camarão",
+          "src": "https://images.pexels.com/photos/27603332/pexels-photo-27603332/free-photo-of-salada-tomates-tabua-de-cortar-tabua-de-corte.jpeg",
+          "price": 99.90,
+          "group": 1,
+          "active": true
+      },
+      {
+          "id": 5,
+          "name": "Spaguetti de Camarão",
+          "src": "https://images.pexels.com/photos/4518844/pexels-photo-4518844.jpeg",
+          "price": 99.90,
+          "group": 2,
           "active": true
       }
   ]
