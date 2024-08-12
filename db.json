@@ -3,78 +3,41 @@
         {
             "id": 1,
             "name": "Entradas",
-            "price": 119.99,
             "imgSrc": "https://images.pexels.com/photos/2661996/pexels-photo-2661996.jpeg",
             "active": true
           },
           {
             "id": 2,
             "name": "Prato principal",
-            "price": 120,
             "imgSrc": "https://images.pexels.com/photos/13770555/pexels-photo-13770555.jpeg",
             "active": false
           },
           {
             "id": 3,
             "name": "Combos",
-            "price": 180,
             "imgSrc": "https://images.pexels.com/photos/23910850/pexels-photo-23910850/free-photo-of-pao-mesa-pouco-saudavel-insalubre.jpeg",
             "active": true
           },
           {
             "id": 4,
             "name": "Bebidas",
-            "price": 150,
             "imgSrc": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
             "active": false
           },
           {
             "id": 5,
             "name": "Sobremesas",
-            "price": 200,
             "imgSrc": "https://images.pexels.com/photos/3026803/pexels-photo-3026803.jpeg",
             "active": true
           },
           {
             "id": 6,
             "name": "Acompanhamentos",
-            "price": 120,
             "imgSrc": "https://images.pexels.com/photos/724300/pexels-photo-724300.jpeg",
             "active": true
           }
     ],
-    "groups": [
-      {
-        "id": 1,
-        "name": "Entradas",
-        "active": true 
-      },
-      {
-        "id": 2,
-        "name": "Prato principal",
-        "active": true 
-      },
-      {
-        "id": 3,
-        "name": "Commbos",
-        "active": true 
-      },
-      {
-        "id": 4,
-        "name": "Bebidas",
-        "active": true 
-      },
-      {
-        "id": 5,
-        "name": "Sobremesas",
-        "active": true 
-      },
-      {
-        "id": 6,
-        "name": "Acompanhamentos",
-        "active": true 
-      }
-    ],
+  
     "alergies": [
       {
         "id": 1,
