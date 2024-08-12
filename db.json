@@ -3,36 +3,42 @@
         {
             "id": 1,
             "name": "Entradas",
+            "price": 0,
             "imgSrc": "https://images.pexels.com/photos/2661996/pexels-photo-2661996.jpeg",
             "active": true
           },
           {
             "id": 2,
             "name": "Prato principal",
+            "price": 0,
             "imgSrc": "https://images.pexels.com/photos/13770555/pexels-photo-13770555.jpeg",
             "active": false
           },
           {
             "id": 3,
             "name": "Combos",
+            "price": 0,
             "imgSrc": "https://images.pexels.com/photos/23910850/pexels-photo-23910850/free-photo-of-pao-mesa-pouco-saudavel-insalubre.jpeg",
             "active": true
           },
           {
             "id": 4,
             "name": "Bebidas",
+            "price": 0,
             "imgSrc": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
             "active": false
           },
           {
             "id": 5,
             "name": "Sobremesas",
+            "price": 0,
             "imgSrc": "https://images.pexels.com/photos/3026803/pexels-photo-3026803.jpeg",
             "active": true
           },
           {
             "id": 6,
             "name": "Acompanhamentos",
+            "price": 0,
             "imgSrc": "https://images.pexels.com/photos/724300/pexels-photo-724300.jpeg",
             "active": true
           }
