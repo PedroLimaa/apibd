@@ -1,122 +1,127 @@
 {
-    "menu": [
-        {
-            "id": 1,
-            "name": "Entradas",
-            "price": 0,
-            "imgSrc": "https://images.pexels.com/photos/2661996/pexels-photo-2661996.jpeg",
-            "active": true
-          },
-          {
-            "id": 2,
-            "name": "Prato principal",
-            "price": 0,
-            "imgSrc": "https://images.pexels.com/photos/13770555/pexels-photo-13770555.jpeg",
-            "active": false
-          },
-          {
-            "id": 3,
-            "name": "Combos",
-            "price": 0,
-            "imgSrc": "https://images.pexels.com/photos/23910850/pexels-photo-23910850/free-photo-of-pao-mesa-pouco-saudavel-insalubre.jpeg",
-            "active": true
-          },
-          {
-            "id": 4,
-            "name": "Bebidas",
-            "price": 0,
-            "imgSrc": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
-            "active": false
-          },
-          {
-            "id": 5,
-            "name": "Sobremesas",
-            "price": 0,
-            "imgSrc": "https://images.pexels.com/photos/3026803/pexels-photo-3026803.jpeg",
-            "active": true
-          },
-          {
-            "id": 6,
-            "name": "Acompanhamentos",
-            "price": 0,
-            "imgSrc": "https://images.pexels.com/photos/724300/pexels-photo-724300.jpeg",
-            "active": true
-          }
-    ],
-  
-    "alergies": [
-      {
-        "id": 1,
-        "name": "lactose"
-      },
-      {
-        "id": 2,
-        "name": "frutos-do-mar"
-      },
-      {
-        "id": 3,
-        "name": "glutem"
-      }
-    ],
-    "productalergy": [
-      {
-        "allergyId": 1,
-        "productId": 1
-      },
-      {
-        "allergyId": 2,
-        "productId": 4
-      },
-      {
-        "allergyId": 2,
-        "productId": 5
-      }
-    ],
-    "products": [
-      {
-          "id": 1,
-          "name": "Brusqueta com queijo de bufala",
-          "description": "Brusqueta com queijo de bufala, tomate cereja e azeitona preta",
-          "src": "https://www.receiteria.com.br/wp-content/uploads/brusqueta-de-cogumelo-paris-capa.jpeg",
-          "price": 59.90,
-          "group": 1,
-          "active": true
-      },
-      {
-          "id": 2,
-          "name": "Carpaccio de salmão defumado",
-          "description": "carpaccio de salmão defumado com majerição e especiarias",
-          "src": "https://www.receiteria.com.br/wp-content/uploads/carpaccio-de-salmao-defumado.jpg",
-          "price": 89.90,
-          "group": 1,
-          "active": true
-      },
-      {
-          "id": 3,
-          "name": "Ceviche de Dourado",
-          "description": "Ceviche de dourado com limão ciciliano, pepino e especiarias",
-          "src": "https://www.receiteria.com.br/wp-content/uploads/ceviche-capa-rotated.jpeg",
-          "price": 79.90,
-          "group": 1,
-          "active": true
-      },
-      {
-          "id": 4,
-          "name": "Salada de Camarão",
-          "description": "salada de camarão com tomate, alface, cebola e especiarias",
-          "src": "https://images.pexels.com/photos/27603332/pexels-photo-27603332/free-photo-of-salada-tomates-tabua-de-cortar-tabua-de-corte.jpeg",
-          "price": 99.90,
-          "group": 1,
-          "active": true
-      },
-      {
-          "id": 5,
-          "name": "Spaguetti de Camarão",
-          "description": "spaguetti de camarão com tomate cereja e manjericão",
-          "src": "https://images.pexels.com/photos/4518844/pexels-photo-4518844.jpeg",
-          "price": 99.90,
-          "group": 2,
-          "active": true
-      }
+  "menu": [
+    {
+      "id": 1,
+      "name": "Entradas",
+      "price": 0,
+      "imgSrc": "https://images.pexels.com/photos/2661996/pexels-photo-2661996.jpeg",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Prato principal",
+      "price": 0,
+      "imgSrc": "https://images.pexels.com/photos/13770555/pexels-photo-13770555.jpeg",
+      "active": false
+    },
+    {
+      "id": 3,
+      "name": "Combos",
+      "price": 0,
+      "imgSrc": "https://images.pexels.com/photos/23910850/pexels-photo-23910850/free-photo-of-pao-mesa-pouco-saudavel-insalubre.jpeg",
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Bebidas",
+      "price": 0,
+      "imgSrc": "https://images.pexels.com/photos/338713/pexels-photo-338713.jpeg",
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "Sobremesas",
+      "price": 0,
+      "imgSrc": "https://images.pexels.com/photos/3026803/pexels-photo-3026803.jpeg",
+      "active": true
+    },
+    {
+      "id": 6,
+      "name": "Acompanhamentos",
+      "price": 0,
+      "imgSrc": "https://images.pexels.com/photos/724300/pexels-photo-724300.jpeg",
+      "active": true
+    }
+  ],
+
+  "alergies": [
+    {
+      "id": 1,
+      "name": "lactose"
+    },
+    {
+      "id": 2,
+      "name": "frutos-do-mar"
+    },
+    {
+      "id": 3,
+      "name": "glutem"
+    }
+  ],
+  "productalergy": [
+    {
+      "allergyId": 1,
+      "productId": 1
+    },
+    {
+      "allergyId": 2,
+      "productId": 4
+    },
+    {
+      "allergyId": 2,
+      "productId": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Brusqueta com queijo de bufala",
+      "isu": "UN",
+      "description": "Brusqueta com queijo de bufala, tomate cereja e azeitona preta",
+      "src": "https://www.receiteria.com.br/wp-content/uploads/brusqueta-de-cogumelo-paris-capa.jpeg",
+      "price": 59.9,
+      "groupId": 1,
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Carpaccio de salmão defumado",
+      "isu": "UN",
+      "description": "carpaccio de salmão defumado com majerição e especiarias",
+      "src": "https://www.receiteria.com.br/wp-content/uploads/carpaccio-de-salmao-defumado.jpg",
+      "price": 89.9,
+      "groupId": 1,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ceviche de Dourado",
+      "isu": "UN",
+      "description": "Ceviche de dourado com limão ciciliano, pepino e especiarias",
+      "src": "https://www.receiteria.com.br/wp-content/uploads/ceviche-capa-rotated.jpeg",
+      "price": 79.9,
+      "groupId": 1,
+      "active": true
+    },
+    {
+      "id": 4,
+      "name": "Salada de Camarão",
+      "isu": "UN",
+      "description": "salada de camarão com tomate, alface, cebola e especiarias",
+      "src": "https://images.pexels.com/photos/27603332/pexels-photo-27603332/free-photo-of-salada-tomates-tabua-de-cortar-tabua-de-corte.jpeg",
+      "price": 99.9,
+      "groupId": 1,
+      "active": true
+    },
+    {
+      "id": 5,
+      "name": "Spaguetti de Camarão",
+      "isu": "UN",
+      "description": "spaguetti de camarão com tomate cereja e manjericão",
+      "src": "https://images.pexels.com/photos/4518844/pexels-photo-4518844.jpeg",
+      "price": 99.9,
+      "groupId": 2,
+      "active": true
+    }
   ]
 }
